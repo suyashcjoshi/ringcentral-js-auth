@@ -9,10 +9,10 @@ app.use(session({ secret: 'somesecretstring', tokens: '' }));
 app.set('views', path.join(__dirname, 'views'))
 app.set('view engine', 'ejs')
 
-const RINGCENTRAL_CLIENT_ID = 'your application client ID'
-const RINGCENTRAL_CLIENT_SECRET = 'your application client secret'
-const RINGCENTRAL_SERVER_URL = 'https://platform.ringcentral.com'
-const RINGCENTRAL_REDIRECT_URL = 'http://localhost:5000/oauth2callback'
+const RINGCENTRAL_CLIENT_ID = ''; // enter this field with your application's client ID
+const RINGCENTRAL_CLIENT_SECRET = ''; // enter this field with your application's secret
+const RINGCENTRAL_SERVER_URL = 'https://platform.devtest.ringcentral.com';
+const RINGCENTRAL_REDIRECT_URL = 'http://localhost:5000/oauth2callback';
 
 var rcsdk = new RingCentral({
   server: RINGCENTRAL_SERVER_URL,
