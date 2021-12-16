@@ -11,4 +11,4 @@ Simple Node.js application that demonstrates how to use RingCentral SDK and setu
 npm install
 node index.js
 ```
-4. open localhost:5000 in your browser and try to login using your RingCentral credentials
+4. Open localhost:5000 in your browser and try to login using your RingCentral credentials
