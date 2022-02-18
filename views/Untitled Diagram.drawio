@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T18:43:47.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="T90rsG3-tXWIlMBPPADA" version="16.5.6" type="github"><diagram id="NUjg3EpJZkrvfTNAjAqF" name="Page-1">5VnbctowEP0aJk/t+A48Ekh6TSct6bQ8dVRbwZrIFiOLgPv1XWH5JsHgZrh0wkMS62i1ls4erdZKzx0n63ccLeI7FmHac6xo3XMnPcexneEA/kgkL5A3TmAVyJyTSFnVwJT8wQoszZYkwlnLUDBGBVm0wZClKQ5FC0Ocs1Xb7JHR9lsXaI4NYBoiaqI/SCTiAh34Vo2/x2Qel2+2LdWToNJYAVmMIrZqQO5Nzx1zxkTxlKzHmEr2Sl6Kcbc7equJcZyKLgMGd06S0/zLJzzBNPnq8ujX0xun8PKM6FItWE1W5CUD4AXIhsb1KiYCTxcolD0rCDhgsUgotGx4VK4wF3i9c452tXLQDGYJFjwHEzXADfxiSF7SWRK9qsm3S0bjBvEDhSEV73nlu6YEHhQr/8CQazD0mc1JutEh/BotFgZjsH7RpiYTnD3hMaOMA5KyVNL5SCjVIETJPIVmCHxhwK8lmwTUOFIdCYkiuisWnC3TCMvFWAcKx1APR983whFsiYZ7rGh4RjRmbMnLOFijpYhhbcCYIEzGSMYqNAJUE2WfR9aVXPfJOjgWkcH+jc9jlvxeZqdhyNcYcrcx5G1hyD6a1voGRRMGR5Fjfc+wlFyMnrF8L/x8G9fwKAxBXjC72wtKDJ5rhuukiWHQ4SBLo5GsCCSNFGUZJIZWLNos4TURP1WPfJ5J/K2vWpN1w2ySt5jFkVFSaLzCtCBrhXjf/jT5b9Drb6G3xDimkAGf29PYxrl6wz0jMMEqvF5ZxJTh9T0tbsX81bBm0aF58vuaJ8/z254E4nMsDE8bEVQLf7kuhoYuxhwjgXdsWrAkmw19M32Q8P2Hsx8eJoW2eQif9vAoi/MGq42TF9e0PjJeEr3MSDovGxCDSFojmp2dX+Nwrgg/H7/2sbJZncFmjdy2PZsBfzyvUqBsNHKgbNbDNq0jZEG1e4scsVeQryBdBrqnoeZpR7oEKaC8YbaQBtnuKQeu9qLAan09wkPh8qDJ2O7yuXk6XTekPGsp+ei6Di5M154uN1/PnUcuA2zzM/4yled1VN4rqT89Xy+eOibUgwnPvLG4TOE5HYXnnVV4rn4N4b844+meTi083xCeKsqv4GMHZ/Ii44E94fSqp64ypzAjmMrtR7a53twU6ncYi6Jun8KQ4k5t05s3rt3+twK+b529gO9wvfYadv3+AsY/63Z2vLYyAv3+qfN2NjwdbDtDs/4nUGFe/y/NvfkL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-18T18:44:17.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="7ylDG0QuD18skdh4X3gY" version="16.5.6" type="github">
+  <diagram id="NUjg3EpJZkrvfTNAjAqF" name="Page-1">
+    <mxGraphModel dx="1298" dy="-260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-3" value="Login to App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="1175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-4" value="Your App Authentication Logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-6" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="1380" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-7" value="Does User have a RC User Account?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="395" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8M2mylyNKeDelmQ3rd_k-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1540" as="sourcePoint" />
+            <mxPoint x="570" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-9" value="Create RC User Account via REST API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-10" value="Authenticate User for RC using RC Credentials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8M2mylyNKeDelmQ3rd_k-9" target="8M2mylyNKeDelmQ3rd_k-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1540" as="sourcePoint" />
+            <mxPoint x="560" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8M2mylyNKeDelmQ3rd_k-6" target="8M2mylyNKeDelmQ3rd_k-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1540" as="sourcePoint" />
+            <mxPoint x="430" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8M2mylyNKeDelmQ3rd_k-4" target="8M2mylyNKeDelmQ3rd_k-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1540" as="sourcePoint" />
+            <mxPoint x="450" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8M2mylyNKeDelmQ3rd_k-2" target="8M2mylyNKeDelmQ3rd_k-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="1350" as="sourcePoint" />
+            <mxPoint x="435" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-15" value="User &#39;Access Token&#39; to Start/Join RC Meeting Session in your App" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2mylyNKeDelmQ3rd_k-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="8M2mylyNKeDelmQ3rd_k-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="1630" as="sourcePoint" />
+            <mxPoint x="424" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
